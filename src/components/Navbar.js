@@ -38,5 +38,3 @@ Navbar.defaultProps = {
     title: 'Set title here',
     aboutText: 'About'
   };
-
-  
